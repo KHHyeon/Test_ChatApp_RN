@@ -3715,7 +3715,7 @@ jest-worker@^24.6.0, jest-worker@^24.9.0:
     merge-stream "^2.0.0"
     supports-color "^6.1.0"
 
-jest@24.9.0:
+jest@^24.9.0:
   version "24.9.0"
   resolved "https://registry.yarnpkg.com/jest/-/jest-24.9.0.tgz#987d290c05a08b52c56188c1002e368edb007171"
   integrity sha512-YvkBL1Zm7d2B1+h5fHEOdyjCG+sGMz4f8D86/0HiqJ6MB4MnDc8FgP5vdWsGnemOQro7lnYo8UakZ3+5A0jxGw==
@@ -5057,10 +5057,10 @@ react-lifecycles-compat@2.0.0:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-2.0.0.tgz#71d9c4cde47114c4102454f76da055c2bc48c948"
   integrity sha512-txfpPCQYiazVdcbMRhatqWKcAxJweUu2wDXvts5/7Wyp6+Y9cHojqXHsLPEckzutfHlxZhG8Oiundbmp8Fd6eQ==
 
-react-native-navigation@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-4.4.0.tgz#1083c014a9438ae468b02e84bea161c418d9701a"
-  integrity sha512-Or9fGerdnnZxHL0aO2f+K8A11vnrJUNe1FvL0ua0e72al7ka7nuJ4TMoEXOh5HIfIWeFjMdcCkzBjaknV7CNGg==
+react-native-navigation@^4.5.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-4.5.0.tgz#fa2348f156f9a09be6145c45e12ea93d42ab6fa5"
+  integrity sha512-MB0VtObxb6gsy6CjduGbI0QFadVpbxrfkKEryl0ArLMsn+LTjbxGnm41iemm7MN8MT32ooIa64BLhm5TvLf/2g==
   dependencies:
     hoist-non-react-statics "3.x.x"
     lodash "4.17.x"
@@ -5068,7 +5068,7 @@ react-native-navigation@^4.4.0:
     react-lifecycles-compat "2.0.0"
     tslib "1.9.3"
 
-react-native@0.61.5:
+react-native@^0.61.5:
   version "0.61.5"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.61.5.tgz#6e21acb56cbd75a3baeb1f70201a66f42600bba8"
   integrity sha512-MXqE3NoGO0T3dUKIKkIppijBhRRMpfN6ANbhMXHDuyfA+fSilRWgCwYgR/YNCC7ntECoJYikKaNTUBB0DeQy6Q==
